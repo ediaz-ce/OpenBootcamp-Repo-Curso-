@@ -1,0 +1,14 @@
+{
+  "name": "mi_primer_proyecto",
+  "version": "1.0.0",
+  "description": "mi primer proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo\" && exit 1"
+  },
+  "keywords": [
+    "proyecto"
+  ],
+  "author": "erick",
+  "license": "ISC"
+}
