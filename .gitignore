@@ -4,5 +4,10 @@ node_modules
 curso
 prueba
 
+
+##Archivos
+error*
+prueba*
+
 ##Archivos ocultos
 .DS_Store
