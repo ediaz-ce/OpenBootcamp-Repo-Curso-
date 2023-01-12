@@ -1,0 +1,10 @@
+let nombre = "Erick";
+let apellido = "Diaz";
+let estudiante = nombre.concat(" ", apellido);
+let estudianteMayus = estudiante.toUpperCase();
+let estudianteMinus = estudiante.toLowerCase();
+let estudianteLength = estudiante.length;
+let firstLetterName = nombre.charAt(0);
+let lastLetterAp = apellido.charAt(apellido.length - 1);
+let estudianteWithOutSpaces = estudiante.replace(" ", "");
+let estudianteBool = estudiante.includes(nombre);
